@@ -1,0 +1,15 @@
+setup.py
+src/XAI/functions.py
+src/XAI/nn.py
+src/XAI.egg-info/PKG-INFO
+src/XAI.egg-info/SOURCES.txt
+src/XAI.egg-info/dependency_links.txt
+src/XAI.egg-info/entry_points.txt
+src/XAI.egg-info/requires.txt
+src/XAI.egg-info/top_level.txt
+src/XAI.egg-info/.ipynb_checkpoints/PKG-INFO-checkpoint
+src/XAI.egg-info/.ipynb_checkpoints/SOURCES-checkpoint.txt
+src/XAI.egg-info/.ipynb_checkpoints/dependency_links-checkpoint.txt
+src/XAI.egg-info/.ipynb_checkpoints/entry_points-checkpoint.txt
+src/XAI.egg-info/.ipynb_checkpoints/requires-checkpoint.txt
+src/XAI.egg-info/.ipynb_checkpoints/top_level-checkpoint.txt

@@ -1,0 +1,8 @@
+jupyterlab
+scikit-learn
+torch
+pandas
+pytorch_lightning
+tensorboard
+xgboost
+matplotlib

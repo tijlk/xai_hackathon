@@ -1,0 +1,2 @@
+[console_scripts]
+XAI = XAI.__main__:main
